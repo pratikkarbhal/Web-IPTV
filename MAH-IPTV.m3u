@@ -44,10 +44,6 @@ https://i.mjh.nz/SamsungTVPlus/INBC1500011RN.m3u8
 https://i.mjh.nz/SamsungTVPlus/INBC1500012AD.m3u8
 #EXTINF:-1 channel-id="samsung-INBC2800020QX" tvg-id="INBC2800020QX" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800020QX_20221116T013715SQUARE.png_20221116013716.png" tvg-chno="1377" group-title="India" , Heritage
 https://i.mjh.nz/SamsungTVPlus/INBC2800020QX.m3u8
-#EXTINF:-1,Planet Eat (EU)
-https://answermedia-planet-eat-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 channel-id="samsung-ATBA3300031VR" tvg-id="ATBA3300031VR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA3300031VR_20240313T073049SQUARE.png" tvg-chno="4002" group-title="Austria" , Wilder Planet
-https://i.mjh.nz/SamsungTVPlus/ATBA3300031VR.m3u8
 #EXTINF:-1,Adventure Earth (GB)
 https://autentic-adventure-earth-1-gb.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Travel XP (GB)
