@@ -72,5 +72,4 @@ https://i.mjh.nz/SamsungTVPlus/INBD13000205L.m3u8
 https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
 #EXTINF:-1 channel-id="samsung-INBD47000014D" tvg-id="INBD47000014D" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD47000014D_20240214T030802SQUARE.png_20240214030803.png" tvg-chno="1121" group-title="India" , The Q
 https://i.mjh.nz/SamsungTVPlus/INBD47000014D.m3u8
-#EXTINF:-1,Experimental
-https://cdn.live.shemaroome.com/marathibana/smil:marathibanaadp.smil/chunklist_b1628000.m3u8
+
