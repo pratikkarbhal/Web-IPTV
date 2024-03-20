@@ -9,6 +9,8 @@ https://i.mjh.nz/SamsungTVPlus/INBD400001CP.m3u8
 https://nw18live.cdn.jio.com/bpk-tv/News18_Lokmat_NW18_MOB/output01/News18_Lokmat_NW18_MOB-audio_98835_eng=98800-video=2702400.m3u8
 #EXTINF:-1 tvg-id="FaktMarathi.in" tvg-logo="https://i.imgur.com/y0VS4QN.png" group-title="Entertainment",Fakt Marathi (576p) [Not 24/7]
 https://live-faktmarathi.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-id="1146" tvg-name="SONY MARATHI{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="SONYLIV",SONY MARATHI{SONYLIV}
+https://pubads.g.doubleclick.net/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8
 #EXTINF:-1 channel-id="samsung-INBC1500014OM" tvg-id="INBC1500014OM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC1500014OM_20240131T032453SQUARE.png_20240131032453.png" tvg-chno="1441" group-title="India" , Maiboli
 https://i.mjh.nz/SamsungTVPlus/INBC1500014OM.m3u8
 #EXTINF:-1 tvg-id="9XJhakaas.in" tvg-logo="https://i.imgur.com/aZ0f85I.png" group-title="Music",9x Jhakaas
@@ -18,8 +20,6 @@ https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01
 https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
 #EXTINF:-1 tvg-id="471" tvg-name="SONY SAB HD{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="SONYLIV",SONY SAB HD{SONYLIV}
 https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
-#EXTINF:-1 tvg-id="1146" tvg-name="SONY MARATHI{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="SONYLIV",SONY MARATHI{SONYLIV}
-https://pubads.g.doubleclick.net/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8
 #EXTINF:-1 tvg-id="476" tvg-name="SONY MAX HD{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="SONYLIV",SONY MAX HD{SONYLIV}
 https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
 #EXTINF:-1 tvg-id="289" tvg-name="SONY MAX{SONYLIV}" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_SD.png" group-title="SONYLIV",SONY MAX{SONYLIV}
@@ -68,6 +68,8 @@ https://i.mjh.nz/SamsungTVPlus/INBD47000042I.m3u8
 https://i.mjh.nz/SamsungTVPlus/INBD1300021X3.m3u8
 #EXTINF:-1 channel-id="samsung-INBD13000205L" tvg-id="INBD13000205L" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD13000205L_20231115T014715SQUARE.png_20231115014716.png" tvg-chno="1263" group-title="India" , Cartoon Network
 https://i.mjh.nz/SamsungTVPlus/INBD13000205L.m3u8
+#EXTINF:-1 tvg-id="872" tvg-name="SONY YAY{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="SONYLIV",SONY YAY{SONYLIV}
+https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
 #EXTINF:-1 channel-id="samsung-INBD47000014D" tvg-id="INBD47000014D" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD47000014D_20240214T030802SQUARE.png_20240214030803.png" tvg-chno="1121" group-title="India" , The Q
 https://i.mjh.nz/SamsungTVPlus/INBD47000014D.m3u8
 #EXTINF:-1,Experimental
