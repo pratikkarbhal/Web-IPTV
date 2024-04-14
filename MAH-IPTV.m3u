@@ -24,15 +24,13 @@ https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
 #EXTINF:-1 tvg-id="289" tvg-name="SONY MAX{SONYLIV}" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_SD.png" group-title="SONYLIV",SONY MAX{SONYLIV}
 https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
+
 #EXTINF:-1 tvg-id="INBD21000016Y" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD21000016Y_20230726T002252SQUARE.png_20230726002253.png" tvg-chno="1000" group-title="India" , The Movie Club
 https://i.mjh.nz/SamsungTVPlus/INBD21000016Y.m3u8
-
-#EXTINF:-1 tvg-id="ZeeMarathi.in" tvg-logo="https://i.imgur.com/vv9ysD3.png" group-title="Undefined",Zee Marathi (720p)
-https://d3vy3je10jkn7h.cloudfront.net/out/v1/f610383ba97c47e3b04d2e1593ff8549/index_4.m3u8
-
-
-#EXTINF:-1 tvg-id="ColorsMarathi.in" tvg-logo="https://i.imgur.com/q43P31H.png" group-title="Undefined",Colors Marathi (1080p)
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Marathi_HD_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1 channel-id="samsung-INBD4800001IR" tvg-id="INBD4800001IR" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4800001IR_20240131T032522SQUARE.png_20240131032523.png" tvg-chno="1001" group-title="Movies" , South Station
+https://i.mjh.nz/SamsungTVPlus/INBD4800001IR.m3u8
+#EXTINF:-1 channel-id="samsung-INBC43000071R" tvg-id="INBC43000071R" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC43000071R_20231011T013441SQUARE.png_20231011013442.png" tvg-chno="1002" group-title="Movies" , Hollywood Desi
+https://i.mjh.nz/SamsungTVPlus/INBC43000071R.m3u8
 
 #EXTINF:-1 tvg-id="INBB2800007DA" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBB2800007DA_20230322T011715SQUARE.png_20230322011715.png" tvg-chno="1163" group-title="India" , Discovery
 https://i.mjh.nz/SamsungTVPlus/INBB2800007DA.m3u8
