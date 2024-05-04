@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ABPMajha.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/ABP_Majha_logo.svg/512px-ABP_Majha_logo.svg.png" group-title="News",ABP Majha (720p)
 https://abplivetv.akamaized.net/hls/live/2043011/manjha/master.m3u8
+#EXTINF:-1 tvg-id="INBD2500006OC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD2500006OC_20240131T032532SQUARE.png_20240131032533.png" group-title="India" , TV9 Marathi
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="News18Lokmat.in" tvg-logo="https://i.imgur.com/SjbtAFh.png" group-title="News",News18 Lokmat (720p) [Not 24/7]
 https://nw18live.cdn.jio.com/bpk-tv/News18_Lokmat_NW18_MOB/output01/News18_Lokmat_NW18_MOB-audio_98835_eng=98800-video=2702400.m3u8
-#EXTINF:-1 tvg-id="INBD2500006OC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD2500006OC_20240131T032532SQUARE.png_20240131032533.png" group-title="India" , TV9 Marathi
-https://i.mjh.nz/SamsungTVPlus/INBD2500006OC.m3u8
 #EXTINF:-1 tvg-id="INBD400001CP" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD400001CP_20240131T032544SQUARE.png_20240131032545.png" group-title="India" , Zee 24 Taas
 https://i.mjh.nz/SamsungTVPlus/INBD400001CP.m3u8
 #EXTINF:-1 tvg-id="FaktMarathi.in" tvg-logo="https://i.imgur.com/y0VS4QN.png" group-title="Entertainment",Fakt Marathi (576p) [Not 24/7]
