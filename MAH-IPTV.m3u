@@ -41,20 +41,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:-1 channel-id="samsung-INBC43000034X" tvg-id="INBC43000034X" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC43000034X_20230614T012649SQUARE.png_20230614012650.png" group-title="Movies" , BEST ACTION TV
 https://i.mjh.nz/SamsungTVPlus/INBC43000034X.m3u8
 
-#EXTINF:-1 tvg-id="INBB2800007DA" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBB2800007DA_20230322T011715SQUARE.png_20230322011715.png" group-title="India" , Discovery
-https://i.mjh.nz/SamsungTVPlus/INBB2800007DA.m3u8
-#EXTINF:-1 tvg-id="INBB280000836" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBB280000836_20220525T002355SQUARE.png_20220525002356.png" group-title="India" , Discovery HD
-https://i.mjh.nz/SamsungTVPlus/INBB280000836.m3u8
-#EXTINF:-1 tvg-id="INBC1500001SN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC1500001SN_20221214T015311SQUARE.png_20221214015312.png" group-title="India" , Animal Planet
-https://i.mjh.nz/SamsungTVPlus/INBC1500001SN.m3u8
-#EXTINF:-1 tvg-id="INBC1500002TR" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC1500002TR_20220427T054732SQUARE.png_20220427054733.png" group-title="India" , Animal Planet HD
-https://i.mjh.nz/SamsungTVPlus/INBC1500002TR.m3u8
-#EXTINF:-1 tvg-id="INBC1500011RN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC1500011RN_20220427T054744SQUARE.png_20220427054746.png" group-title="India" , Discovery Science
-https://i.mjh.nz/SamsungTVPlus/INBC1500011RN.m3u8
-#EXTINF:-1 tvg-id="INBC1500012AD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC1500012AD_20220525T002351SQUARE.png_20220525002353.png" group-title="India" , Discovery Turbo
-https://i.mjh.nz/SamsungTVPlus/INBC1500012AD.m3u8
-#EXTINF:-1,Travel XP (GB)
-https://travelxp-travelxp-1-gb.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="INBA4900023QJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA4900023QJ_20220427T054726SQUARE.png_20220427054727.png" group-title="India" , Xplore
 https://i.mjh.nz/SamsungTVPlus/INBA4900023QJ.m3u8
 #EXTINF:-1 tvg-id="INBC2800020QX" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800020QX_20221116T013715SQUARE.png_20221116013716.png" group-title="India" , Heritage
@@ -66,8 +52,6 @@ https://i.mjh.nz/SamsungTVPlus/INBA4900027A9.m3u8
 #EXTINF:-1,Adventure Earth (GB)
 https://autentic-adventure-earth-1-gb.lg.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="INBC15000054I" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC15000054I_20230913T014222SQUARE.png_20230913014223.png" group-title="India" , Discovery Kids
-https://i.mjh.nz/SamsungTVPlus/INBC15000054I.m3u8
 #EXTINF:-1 tvg-id="INBD47000042I" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD47000042I_20240214T030805SQUARE.png_20240214030806.png" group-title="India" , The Q Kahaniyan
 https://i.mjh.nz/SamsungTVPlus/INBD47000042I.m3u8
 #EXTINF:-1 tvg-id="INBD1300021X3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD1300021X3_20231011T013448SQUARE.png_20231011013449.png" group-title="India" , Pogo
