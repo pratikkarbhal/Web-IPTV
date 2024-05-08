@@ -51,7 +51,7 @@ https://i.mjh.nz/SamsungTVPlus/INBC2800020QX.m3u8
 https://i.mjh.nz/SamsungTVPlus/INBB280000599.m3u8
 #EXTINF:-1 tvg-id="INBA4900027A9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA4900027A9_20220427T054651SQUARE.png_20220427054652.png" group-title="India" , Real Wild
 https://i.mjh.nz/SamsungTVPlus/INBA4900027A9.m3u8
-#EXTINF:-1,Adventure Earth (GB)
+#EXTINF:-1,tvg-logo="https://www.sefiles.net/merchant/5511/images/site/logo_ae_300x80.png",Adventure Earth (GB)
 https://autentic-adventure-earth-1-gb.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="INBD47000042I" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD47000042I_20240214T030805SQUARE.png_20240214030806.png" group-title="India" , The Q Kahaniyan
@@ -64,6 +64,8 @@ https://i.mjh.nz/SamsungTVPlus/INBD13000205L.m3u8
 https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
 #EXTINF:-1 tvg-id="INBD47000014D" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD47000014D_20240214T030802SQUARE.png_20240214030803.png" group-title="India" , The Q
 https://i.mjh.nz/SamsungTVPlus/INBD47000014D.m3u8
+#EXTINF:-1,tvg-logo="https://www.watchmojo.com/2016/img/wm_logo3_2018.webp",Watch Mojo (EU)
+https://watchmojo-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1,Experimental
 https://cdn.live.shemaroome.com/marathibana/smil:marathibanaadp.smil/chunklist_b1628000_sleng.m3u8
 
