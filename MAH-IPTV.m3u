@@ -27,7 +27,7 @@ https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
 #EXTINF:-1 tvg-id="289" tvg-name="SONY MAX{SONYLIV}" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_SD.png" group-title="SONYLIV",SONY MAX{SONYLIV}
 https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
 #EXTINF:-1 tvg-id="Shemaroo Bollywood" tvg-name="Shemaroo Bollywood {Distro}" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/Shemaroo_TV_Logo.png",Shemaroo Bollywood
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-bollywood/704f4729-d5aa-4ee7-a76e-22b1398649d6/2.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-bollywood/master.m3u8
 #EXTINF:-1 tvg-id="Bollywood Prime" tvg-name="Bollywood Prime {Distro}" tvg-logo="https://a.jsrdn.com/hls/23145/bollywood-prime/logo_20231219_184906_65.png",Bollywood Prime
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-prime/3b2e48a1-2b02-4cb8-b6e2-4810bc890fd4/3.m3u8
 
