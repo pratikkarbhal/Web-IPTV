@@ -65,8 +65,8 @@ https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
 https://i.mjh.nz/SamsungTVPlus/INBD47000014D.m3u8
 #EXTINF:-1,tvg-logo="https://www.watchmojo.com/2016/img/wm_logo3_2018.webp",Watch Mojo (EU)
 https://watchmojo-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1,tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/panda-7-logo-png-transparent.png",Crafty Panda
-https://stream.ads.ottera.tv/cl/240522cp6um66ut1i6nekfee8g/1280x720_3071200_0_f.m3u8
+#EXTINF:-1,tvg-logo="https://www.powernationtv.com/images/brands/pn_icon_sm.png",PowerNation TV
+https://api.powernationtv.com/api/v1/powernationtv-com/video/master/79734de245f7b8375e7e.m3u8
 #EXTINF:-1,Experimental
 https://cdn.live.shemaroome.com/marathibana/smil:marathibanaadp.smil/chunklist_b1628000_sleng.m3u8
 
