@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>IPTV Player</title>
+
+    <!-- Bootstrap CSS -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Clappr script -->
+    <script src="https://cdn.jsdelivr.net/npm/clappr@latest/dist/clappr.min.js"></script>
+
+    <style>
+        body {
+            background-color: #f8f9fa;
+            overflow: hidden; /* Prevent body from scrolling */
+        }
+        .container-fluid {
+            margin-top: 20px;
+        }
+        #heading {
+            text-align: center;
+            padding: 20px;
+        }
+        .animated-heading {
+            font-size: 3rem;
+            font-weight: bold;
+            color: #007bff;
+            text-transform: uppercase;
+            animation: bounce-in-fwd 1.5s cubic-bezier(0.68, -0.55, 0.265, 1.55) both;
+        }
+        @keyframes bounce-in-fwd {
+            0% {
+                transform: scale(0);
+                opacity: 0;
+            }
+            100% {
+                transform: scale(1);
+                opacity: 1;
+            }
+        }
+        .list-container {
+            padding: 20px;
+        }
+        .list-group-item a {
+            text-decoration: none;
+            color: #007bff;
+        }
+        .list-group-item a:hover {
+            text-decoration: underline;
+        }
+        #playlist {
+            max-height: calc(100vh - 150px);
+            overflow-y: auto;
+        }
+        #player-container {
+            position: fixed;
+            top: 150px;
+            right: 20px;
+            width: calc(100% - 380px); /* Adjust width based on your layout */
+            height: calc(100vh - 180px); /* Adjust height based on your layout */
+        }
+        #player {
+            width: 100%;
+            height: 100%;
+            background-color: #000;
+        }
+    </style>
+</head>
+<body>
+<div class="container-fluid">
+    <h1 id="heading"><span class="animated-heading">IPTV Concept by Pratik</span></h1>
+    <div class="row">
+        <div class="col-md-4 list-container">
+            <ul id="playlist" class="list-group">
+                <!-- Playlist items will be inserted here by JavaScript -->
+            </ul>
+        </div>
+        <div id="player-container" class="col-md-8">
+            <div id="player"></div>
+        </div>
+    </div>
+</div>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        // Proxy URL to bypass CORS policy
+        const proxyURL = 'https://api.allorigins.win/get?url=';
+        const playlistURL = 'https://github.com/pratikkarbhal/CustomIPTVm3u8/blob/main/MAH-IPTV.m3u?raw=true';
+        const proxyPlaylistURL = proxyURL + encodeURIComponent(playlistURL);
+
+        fetch(proxyPlaylistURL)
+            .then(response => response.json())
+            .then(data => {
+                const playlistContent = data.contents;
+                const playlist = document.getElementById('playlist');
+                const lines = playlistContent.split('\n');
+                let firstStreamUrl = null;
+                lines.forEach((line, index) => {
+                    if (line.startsWith('#EXTINF')) {
+                        const title = line.split(',')[1];
+                        const url = lines[index + 1].trim();
+                        const listItem = document.createElement('li');
+                        listItem.className = 'list-group-item';
+                        listItem.innerHTML = `<a href="#" data-url="${url}">${title}</a>`;
+                        playlist.appendChild(listItem);
+                        
+                        // Set the first stream URL
+                        if (firstStreamUrl === null) {
+                            firstStreamUrl = url;
+                        }
+                    }
+                });
+
+                // Play the first stream by default
+                if (firstStreamUrl !== null) {
+                    playStream(firstStreamUrl);
+                }
+
+                playlist.addEventListener('click', function (event) {
+                    event.preventDefault();
+                    if (event.target && event.target.nodeName === 'A') {
+                        const streamUrl = event.target.getAttribute('data-url');
+                        playStream(streamUrl);
+                    }
+                });
+            })
+            .catch(error => console.error('Error fetching the playlist:', error));
+
+        // Create a single instance of the player
+        const playerElement = document.getElementById('player');
+        const player = new Clappr.Player({
+            parentId: "#player",
+            width: '100%',
+            height: '100%',
+            autoPlay: true,
+            mediacontrol: {seekbar: "#00FF00", buttons: "#FFFFFF"},
+            mute: false,
+        });
+
+        function playStream(url) {
+            player.load(url);
+        }
+    });
+</script>
+</body>
+</html>
