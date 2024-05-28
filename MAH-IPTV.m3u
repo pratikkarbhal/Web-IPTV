@@ -66,7 +66,4 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="WM" tvg-name="Watch Mojo" tvg-logo="https://www.watchmojo.com/2016/img/wm_logo3_2018.webp", Watch Mojo (EU)
 https://watchmojo-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PN" tvg-name="PowerNation" tvg-logo="https://www.powernationtv.com/images/brands/pn_icon_sm.png", PowerNation TV
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1716909659/ei/-6FVZrmdBfSHkucPtteUyAw/ip/3.228.25.72/id/jeJknTJunZQ.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr3---sn-mb.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/B-/mm/44/mn/sn-mb/ms/lva/mv/u/mvi/3/pl/21/dover/11/pacing/0/keepalive/yes/mt/1716887727/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,vprv,playlist_type/sig/AJfQdSswRgIhAL-a012p9SWVLzG-nlGSj3eZdKa264AVrfMGQBWZ2G93AiEAwBGzTVEUiesO0vmUaSX-KoDni9G8OYeEz9WtLwlkOZU%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRgIhALZEmBaTL-imv5Gb9-_t4axsOwXtxq14StuVgDOUidzMAiEAwCFttY6KdSKfAgHEepp8kVUy92sn2fevAizCb3pnLv0%3D/playlist/index.m3u8
-#EXTINF:-1 Experimental
-https://cdn.live.shemaroome.com/marathibana/smil:marathibanaadp.smil/chunklist_b1628000_sleng.m3u8
-
+ftp://kajal:12345@192.168.1.1/Drive1_1/Bravia_Content/boys2.mkv
