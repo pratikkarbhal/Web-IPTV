@@ -66,8 +66,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1,tvg-logo="https://www.watchmojo.com/2016/img/wm_logo3_2018.webp",Watch Mojo (EU)
 https://watchmojo-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1,tvg-logo="https://www.powernationtv.com/images/brands/pn_icon_sm.png",PowerNation TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
-https://www.youtube.com/embed/jeJknTJunZQ?si=DekBpHR6ZLEMUDNY
+https://www.youtube.com/watch?v=jeJknTJunZQ
 #EXTINF:-1,Experimental
 https://cdn.live.shemaroome.com/marathibana/smil:marathibanaadp.smil/chunklist_b1628000_sleng.m3u8
 
