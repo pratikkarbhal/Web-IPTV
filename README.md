@@ -1,9 +1,11 @@
 Only for educational purposes...
-
 # Results
 Here is IPTV Concept made by me.
 ## [See Preview](https://pratikkarbhal.github.io/CustomIPTVm3u8/)
 Some channels may not work due to CORS policy.
+
+![Basic IPTV Concept](IPTV Player.png)
+
 
 #
 
