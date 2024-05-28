@@ -4,6 +4,8 @@ Only for educational purposes...
 Here is IPTV Concept made by me.
 ## [See Preview](https://pratikkarbhal.github.io/CustomIPTVm3u8/)
 
+
+
 # Technologies Used
 HTML,CSS: Used for structuring and Styling of the webpage.
 JavaScript: Used for fetching data, handling events, and dynamically updating the webpage content.
@@ -17,7 +19,8 @@ Responsive Design: Implemented to ensure the webpage adapts well to various scre
 Free2air Channel stream sources.
 
 
-## Problem Statement
+
+# Problem Statement
 
 IPTV is a new method of delivering and viewing television programs using an IP network and high speed broadband technology. It is fast becoming a popular value added service in many countries. 
 However in India, IPTV is yet to be a big thing.
