@@ -7,7 +7,8 @@ Basic IPTV Concept
 1. Desktop
 
 ![Desktop](https://github.com/pratikkarbhal/CustomIPTVm3u8/blob/main/desktop.gif)
-3. Mobile
+
+2. Mobile
 
 ![Mobile](https://github.com/pratikkarbhal/CustomIPTVm3u8/blob/main/mobile.gif)
 
