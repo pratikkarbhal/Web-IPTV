@@ -13,8 +13,12 @@ body {
 .animated-heading {
     font-size: 2rem;
     font-weight: bold;
+	text-align:top;
     color: #bb86fc;
     text-transform: uppercase;
+    animation: bounce-in-fwd 1.5s cubic-bezier(0.68, -0.55, 0.265, 1.55) both;
+}
+.animated-subheading {
     animation: bounce-in-fwd 1.5s cubic-bezier(0.68, -0.55, 0.265, 1.55) both;
 }
 @keyframes bounce-in-fwd {
