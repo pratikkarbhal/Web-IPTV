@@ -1,6 +1,5 @@
 Only for educational purposes...
-## Results
-## [See Preview](https://pratikkarbhal.github.io/CustomIPTVm3u8/) 
+## Results: [See Preview](https://pratikkarbhal.github.io/CustomIPTVm3u8/) 
 Here is IPTV Concept made by me.
 Some channels may not work due to CORS policy.
 Basic IPTV Concept 
@@ -15,7 +14,7 @@ Basic IPTV Concept
 
 #
 
-# Technologies Used
+# Technologies Used:
 HTML,CSS: Used for structuring and Styling of the webpage.
 
 JavaScript: Used for fetching data, handling events, and dynamically updating the webpage content.
@@ -37,7 +36,7 @@ Free2air Channel stream sources.
 
 #
 
-# Problem Statement
+# Problem Statement:
 
 IPTV is a new method of delivering and viewing television programs using an IP network and high speed broadband technology. It is fast becoming a popular value added service in many countries. 
 However in India, IPTV is yet to be a big thing.
