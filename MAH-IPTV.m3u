@@ -50,6 +50,8 @@ https://i.mjh.nz/SamsungTVPlus/INBB280000599.m3u8
 https://i.mjh.nz/SamsungTVPlus/INBA4900027A9.m3u8
 #EXTINF:-1 tvg-logo="https://www.sefiles.net/merchant/5511/images/site/logo_ae_300x80.png",Adventure Earth (GB)
 https://autentic-adventure-earth-1-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000043LH_20240530T215723SQUARE.png", Samsung Wild Life
+https://i.mjh.nz/SamsungTVPlus/USBA3000043LH.m3u8
 
 #EXTINF:-1 tvg-id="INBD47000042I" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD47000042I_20240214T030805SQUARE.png_20240214030806.png" group-title="India" , The Q Kahaniyan
 https://i.mjh.nz/SamsungTVPlus/INBD47000042I.m3u8
