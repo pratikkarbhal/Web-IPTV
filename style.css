@@ -133,14 +133,14 @@ body, html {
     
     #player-container {
         width: 100%;
-        height: 35vh; /* Adjusted to fit within the viewport */
+        height: 30vh; /* Adjusted to fit within the viewport */
         margin-top: 0;
         margin-left: 0;
 		order: 1; /* Move to the top on mobile */
     }
 
     #playlist {
-        max-height: 55vh; /* Adjusted to fit within the viewport */
+        max-height: 60vh; /* Adjusted to fit within the viewport */
     }
 
     .animated-heading {
