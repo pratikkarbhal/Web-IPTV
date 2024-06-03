@@ -126,7 +126,7 @@ body, html {
     
     .list-container {
         padding: 0;
-        max-height: 50vh;
+        max-height: 65vh;
 		margin-top: 10px;
 		order: 2;
     }
