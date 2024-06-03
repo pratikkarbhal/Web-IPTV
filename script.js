@@ -39,6 +39,12 @@ document.addEventListener('DOMContentLoaded', function () {
                     playStream(streamUrl);
                 }
             });
+
+            // Hide the loading screen after at least 1 second
+            setTimeout(function () {
+                document.getElementById('loading-screen').style.display = 'none';
+                document.getElementById('content').style.display = 'block';
+            }, 1800); // 1800 milliseconds = 1 second
         })
         .catch(error => console.error('Error fetching the playlist:', error));
 
