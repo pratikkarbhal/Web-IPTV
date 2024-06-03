@@ -30,6 +30,7 @@ body, html {
 #heading {
     text-align: center;
     padding: 20px;
+    padding-top:5px;
 }
 .animated-heading {
     font-size: 2rem;
