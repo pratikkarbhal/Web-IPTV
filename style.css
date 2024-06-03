@@ -114,11 +114,35 @@ body, html {
     width: 100%;
     height: 100%;
 }
+
+
+
+/* Media queries for responsiveness */
 @media (max-width: 768px) {
+    .container-fluid {
+        padding: 5px;
+    }
+    
+    .list-container {
+        padding: 0;
+        max-height: 50vh;
+		margin-top: 10px;
+		order: 2;
+    }
+    
     #player-container {
         width: 100%;
-        height: 300px;
-        margin-top: 20px;
+        height: 40vh; /* Adjusted to fit within the viewport */
+        margin-top: 0;
+        margin-left: 0;
+		order: 1; /* Move to the top on mobile */
     }
+
     #playlist {
-        max-height: 200
+        max-height: 50vh; /* Adjusted to fit within the viewport */
+    }
+
+    .animated-heading {
+        font-size: 1.5rem;
+    }
+}
