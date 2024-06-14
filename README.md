@@ -1,6 +1,6 @@
 Only for educational purposes...
 You can fork the repository, edit your .m3u playlist and after enabling github-pages. you are good to go.
-## Have a look: [Live Now!](https://pratikkarbhal.github.io/CustomIPTVm3u8/) 
+## Take a look: [Live Now!](https://pratikkarbhal.github.io/CustomIPTVm3u8/) 
 Here is IPTV Concept made by me.
 Some channels may not work due to CORS policy.
 
