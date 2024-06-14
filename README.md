@@ -54,5 +54,5 @@ New Delhi, 4th January, 2008 – Telecom Regulatory Authority of India (TRAI) re
 IPTV is legal in India but it not yet provisioned by government.
 
 So, I am making a concept of IPTV service.
-Collecting some .m3u sources of free 2 air TV Channels.
-Creating a basic Bootstrap based Web page that handles the URLs from the .m3u8 Playlist And Chromecast based addon player to play those livestreams in browser.
+Collecting some .m3u8 sources of free 2 air TV Channels.
+Creating a basic Bootstrap based Web page that handles the URLs from the .m3u Playlist And Chromecast based addon player to play those livestreams in browser.
