@@ -1,5 +1,5 @@
 Only for educational purposes...
-## Results: [https://github.com/pratikkarbhal/CustomIPTVm3u8/blob/main/live.gif](https://pratikkarbhal.github.io/CustomIPTVm3u8/) 
+## Results: [Go to Website](https://pratikkarbhal.github.io/CustomIPTVm3u8/) 
 Here is IPTV Concept made by me.
 Some channels may not work due to CORS policy.
 
