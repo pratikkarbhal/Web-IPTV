@@ -35,10 +35,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://i.mjh.nz/SamsungTVPlus/INBD21000016Y.m3u8
 #EXTINF:-1 channel-id="samsung-INBD4800001IR" tvg-id="INBD4800001IR" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4800001IR_20240131T032522SQUARE.png_20240131032523.png" group-title="Movies" , South Station
 https://i.mjh.nz/SamsungTVPlus/INBD4800001IR.m3u8
-#EXTINF:-1 channel-id="samsung-INBC43000071R" tvg-id="INBC43000071R" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC43000071R_20231011T013441SQUARE.png_20231011013442.png" group-title="Movies" , Hollywood Desi
-https://i.mjh.nz/SamsungTVPlus/INBC43000071R.m3u8
-#EXTINF:-1 channel-id="samsung-INBC43000034X" tvg-id="INBC43000034X" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC43000034X_20230614T012649SQUARE.png_20230614012650.png" group-title="Movies" , BEST ACTION TV
-https://i.mjh.nz/SamsungTVPlus/INBC43000034X.m3u8
+
 
 #EXTINF:-1 tvg-id="INBA4900023QJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA4900023QJ_20220427T054726SQUARE.png_20220427054727.png" group-title="India" , Xplore
 https://i.mjh.nz/SamsungTVPlus/INBA4900023QJ.m3u8
