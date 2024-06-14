@@ -41,8 +41,9 @@ https://i.mjh.nz/SamsungTVPlus/INBC43000071R.m3u8
 https://i.mjh.nz/SamsungTVPlus/INBC43000034X.m3u8
 
 #EXTINF:-1 tvg-id="IDD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/ABP_Majha_logo.svg/512px-ABP_Majha_logo.svg.png" group-title="News",ID
-https://food-dlvr-ott.akamaized.net/primary/3/d31abde936de4fa884fbd91054dacad3/index_14.m3u8
 https://food-dlvr-ott.akamaized.net/primary/3/d31abde936de4fa884fbd91054dacad3/index_11_0.m3u8
+https://food-dlvr-ott.akamaized.net/primary/3/d31abde936de4fa884fbd91054dacad3/index_14.m3u8
+
 
 #EXTINF:-1 tvg-id="INBA4900023QJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA4900023QJ_20220427T054726SQUARE.png_20220427054727.png" group-title="India" , Xplore
 https://i.mjh.nz/SamsungTVPlus/INBA4900023QJ.m3u8
