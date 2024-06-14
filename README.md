@@ -9,7 +9,7 @@ This is IPTV Concept made by me.
 Some channels may not work due to CORS policy.
 
 
-Screenshots for 
+## Screenshots
 1. Desktop
 
 ![Desktop](https://github.com/pratikkarbhal/CustomIPTVm3u8/blob/main/desktop.gif)
