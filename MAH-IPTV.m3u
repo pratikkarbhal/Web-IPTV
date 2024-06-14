@@ -71,5 +71,3 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1 tvg-logo="https://helios-i.mashable.com/imagery/roundup-products/03i7YGjGhVgcnzv5MoErkEn/product-image.fit_lpad.size_672x378.v1630424422.png", Documentary+
 https://documentaryplus-documentaryplus-3-us.ono.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NASA", Video Title
-ftp://kajal:12345@192.168.1.1/Drive1_1/Bravia_Content/boys2.mkv
