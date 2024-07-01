@@ -13,6 +13,8 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/playlist.m3u8
 https://live-faktmarathi.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="1146" tvg-name="SONY MARATHI{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="Entertainment",SONY MARATHI
 https://pubads.g.doubleclick.net/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/Colors_Marathi_HD.png" group-title="Entertainment", Colors Marathi HD
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_ColorsMarathiHD/JCHLS/index.m3u8
 #EXTINF:-1 channel-id="samsung-INBC1500014OM" tvg-id="INBC1500014OM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC1500014OM_20240131T032453SQUARE.png_20240131032453.png" group-title="Music" , Maiboli
 https://i.mjh.nz/SamsungTVPlus/INBC1500014OM.m3u8
 #EXTINF:-1 tvg-id="9XJhakaas.in" tvg-logo="https://i.imgur.com/aZ0f85I.png" group-title="Music",9x Jhakaas
@@ -42,9 +44,17 @@ https://i.mjh.nz/SamsungTVPlus/INBD47000014D.m3u8
 https://i.mjh.nz/SamsungTVPlus/INBD1300021X3.m3u8
 #EXTINF:-1 tvg-id="INBD13000205L" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD13000205L_20231115T014715SQUARE.png_20231115014716.png" group-title="Kids" , Cartoon Network
 https://i.mjh.nz/SamsungTVPlus/INBD13000205L.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/sonic_Hindi.png" group-title="Kids", Sonic
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_SonicNick/JCHLS/index.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/Discovery_Kids_2.png" group-title="Kids", Discovery Kids
+https://dplus.gammacdn.workers.dev/videos/113.m3u8
 #EXTINF:-1 tvg-id="872" tvg-name="SONY YAY{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="Kids", SONY YAY
 https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/Discovery_Channel_English.png" group-title="Infotainment", Discovery HD
+https://dplus.gammacdn.workers.dev/videos/95.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/Animal_Planet_HD.png" group-title="Infotainment", Animal Planet HD
+https://dplus.gammacdn.workers.dev/videos/99.m3u8
 #EXTINF:-1 tvg-id="BCC Earth" tvg-name="BCCE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Infotainment", BCC Earth
 https://d206rrc0yoxllg.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-staxtq3pp4n9p/115c93cf-88fa-4c4d-86c1-ca74ac6969d7/3.m3u8
 #EXTINF:-1 tvg-logo="https://www.sefiles.net/merchant/5511/images/site/logo_ae_300x80.png" group-title="Infotainment", Adventure Earth
@@ -76,15 +86,11 @@ https://documentaryplus-documentaryplus-3-us.ono.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="HistoryTV" tvg-name="HistoryTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png" group-title="Infotainment", HistoryTV 365
 https://da8eq3kpws4wh.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qwqfh4ecsmf30/7f1c6847-381e-477d-9bda-b62f74400ee0/3.m3u8
 
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/sonic_Hindi.png" group-title="Entertainment", Sonic
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_SonicNick/JCHLS/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="Entertainment", Nat Geo HD
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:ef:28:c8&stream=156011&extension=m3u8
+
+
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/History_18_Hindi.png" group-title="Entertainment", History TV18 HD
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:ef:28:c8&stream=156018&extension=m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/Zee_Marathi_HD.png" group-title="Entertainment", Zee Marathi HD
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:ef:28:c8&stream=282022&extension=m3u8
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/Colors_Marathi_HD.png" group-title="Entertainment", Colors Marathi HD
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_ColorsMarathiHD/JCHLS/index.m3u8
 #EXTINF:-1 tvg-id="ZeeTH" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/Zee_Talkies_HD.png" group-title="Entertainment", Zee Talkies HD
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:ef:28:c8&stream=1117978&extension=m3u8
