@@ -2,12 +2,13 @@
 Only for educational purposes...
 
 Make your own......
+
 For Android/Smart TVs: Go to github playlist, copy **raw-file url(i.e. just add ' ?raw=true ' in the end of browser url)** and paste it in IPTV Player.
 
 For your own Github Repo: 
 1. Fork the repository
 2. Edit your .m3u playlist
-3. Change raw-file url in script.js (line no.3 in script.js)
+3. Change raw-file url i.e playlistURL in script.js (line no.4 in script.js)
 4. Enable github-pages
 5. Done. Use github-pages URL to use.
 
