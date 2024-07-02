@@ -1,9 +1,10 @@
 ## Take a look: [📺Live Now](https://pratikkarbhal.github.io/Web-IPTV/) 
-Only for educational purposes...
+Only for educational purposes, Make your own...
 
-Make your own......
-
-For Android/Smart TVs: Go to github playlist, copy **raw-file url(i.e. just add ' ?raw=true ' in the end of browser url)** and paste it in IPTV Player.
+For Android/Smart TVs:
+1. Go to github playlist
+2. Copy **raw-file url(i.e. just add ' ?raw=true ' in the end of browser url)**
+3. Paste it in IPTV Player.
 
 For your own Github Repo: 
 1. Fork the repository
