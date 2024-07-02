@@ -19,11 +19,11 @@ Some channels may not work due to CORS policy.
 ## Screenshots:
 1. Desktop
 
-![Desktop](https://github.com/pratikkarbhal/CustomIPTVm3u8/blob/main/desktop.gif)
+![Desktop](https://github.com/pratikkarbhal/Web-IPTV/blob/main/desktop.gif)
 
 2. Mobile
 
-![Mobile](https://github.com/pratikkarbhal/CustomIPTVm3u8/blob/main/mobile.gif)
+![Mobile](https://github.com/pratikkarbhal/Web-IPTV/blob/main/mobile.gif)
 
 
 #
