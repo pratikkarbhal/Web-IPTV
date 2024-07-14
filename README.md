@@ -11,7 +11,7 @@ For your own Github Repo:
 2. Edit your .m3u playlist
 3. Change raw-file url i.e playlistURL in script.js (line no.4 in script.js)
 4. Enable github-pages
-5. Done. Use github-pages URL to use.
+5. Done. Enable github-pages and use your github io URL to use.
 
 
 This is IPTV Concept made by me.
